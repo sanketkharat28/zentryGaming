@@ -20,5 +20,19 @@ A sleek and interactive website frontend for **Zentry**, built with **React, Nex
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/sanketkharat28/Zentry
-cd Zentry
+git clone https://github.com/sanketkharat28/zentryGaming
+cd zentryGaming
+```
+
+### 2. Install Dependencies
+```sh
+npm install
+```
+
+### 3. Run the Application
+Start Backend Server:
+```sh
+npm run dev
+```
+
+The frontend will be available at http://http://localhost:5173
